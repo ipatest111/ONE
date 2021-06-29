@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ONE.os.lottery.uat2</string>
+				<string>com.ONE.os.lottery2c09</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>C09竞彩-uat</string>
+				<string>C09竞彩UAT</string>
 			</dict>
 		</dict>
 	</array>
